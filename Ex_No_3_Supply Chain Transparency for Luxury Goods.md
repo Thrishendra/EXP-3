@@ -50,9 +50,12 @@ contract LuxurySupplyChain {
 ```
 # Expected Output:
 A luxury good (e.g., a Rolex watch) is registered on-chain.
+![image](https://github.com/user-attachments/assets/ff8fcedc-3508-4f0a-9152-93a4ebafeb7a)
+![image](https://github.com/user-attachments/assets/543947f9-844e-4bdf-8b71-eb6dcea85afe)
 
 
 Ownership is transferred at every checkpoint.
+![image](https://github.com/user-attachments/assets/1855beac-4794-446b-b0f2-2b575a0b3748)
 
 
 Buyers can check the authenticity before purchasing.
@@ -65,4 +68,4 @@ Helps prevent counterfeit luxury goods.
 Teaches real-world supply chain use cases.
 
 # RESULT : 
-
+Hence we implemented code for a smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
